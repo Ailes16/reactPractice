@@ -11,6 +11,6 @@ import lombok.Data;
 @Data
 public class TestModel {
 
-    private String userId = "TEST001";
-    private String userName = "test user";
+    private String userId = "spring001";
+    private String userName = "spring user";
 }
